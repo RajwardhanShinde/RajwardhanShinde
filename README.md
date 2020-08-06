@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Web Development, Machine Learning, Competitive Coding.
 - 👯 I’m looking to collaborate on Web Development projects.
 - 💬 Ask me about MERN, Django, Machine Learning, Competitive Coding or any tech related stuff.
+- ⭐ 3 star at Codechef and Notebooks Expert at Kaggle.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 
 ### Connect with me:
