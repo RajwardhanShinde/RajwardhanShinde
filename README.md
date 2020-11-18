@@ -11,10 +11,13 @@
 
 [<img align="left" alt="RajwardhanShinde" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
-
+[<img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
 
 <br />
+<br />
+
+![Codechef](https://img.shields.io/badge/Codechef-1759-blue)&nbsp;
+![Codeforces](https://img.shields.io/badge/Codeforces-1203-Green)&nbsp;
 
 ### Languages and Tools:
 
