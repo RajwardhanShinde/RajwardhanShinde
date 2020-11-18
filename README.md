@@ -12,6 +12,8 @@
 [<img align="left" alt="RajwardhanShinde" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
+[<img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
+[<img align="left" alt="Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
 
 <br />
 <br />
@@ -46,3 +48,5 @@
 [project]: http://www.learn-code.tk
 [linkedin]: https://linkedin.com/in/RajwardhanShinde
 [kaggle]: https://www.kaggle.com/rajwardhanshinde
+[leetcode]: https://leetcode.com/rss07/
+[codechef]: https://www.codechef.com/users/rss07
