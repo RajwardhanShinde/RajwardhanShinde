@@ -1,10 +1,9 @@
 ### Hello, I'm Rajwardhan Shinde 👋
 
 - 🔭 I’m currently working on a MERN project [Here it is][project]!
-- 🌱 I’m currently learning Web Development, Machine Learning, Competitive Coding.
+- 🌱 I’m currently learning Web Development, Competitive Coding.
 - 👯 I’m looking to collaborate on Web Development projects.
-- 💬 Ask me about MERN, Django, Machine Learning, Competitive Coding or any tech related stuff.
-- ⭐ 3 star at Codechef and Notebooks Expert at Kaggle.
+- 💬 Ask me about MERN, Django, Competitive Coding or any tech related stuff.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 
 ### Connect with me:
