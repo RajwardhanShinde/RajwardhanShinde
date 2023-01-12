@@ -40,7 +40,7 @@
 <br />
 <br />
 
-<img align="left" alt="Rajwardhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RajwardhanShinde&show_icons=true&hide_border=true" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajwardhanshinde&show_icons=true)
 
 [website]: https://rajwardhanshinde.github.io
 [project]: http://www.learn-code.tk
