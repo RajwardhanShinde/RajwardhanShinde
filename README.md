@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Web Development, Competitive Coding.
 - 👯 I’m looking to collaborate on Web Development projects.
 - 💬 Ask me about MERN, Django, Competitive Coding or any tech related stuff.
-- 🥅 2020 Goals: Contribute more to Open Source projects.
 
 ### Connect with me:
 
@@ -40,7 +39,7 @@
 <br />
 <br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajwardhanshinde&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RajwardhanShinde&show_icons=true)
 
 [website]: https://rajwardhanshinde.github.io
 [project]: http://www.learn-code.tk
