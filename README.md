@@ -74,6 +74,4 @@
 - Distributed Systems
 - Performance Optimization
 - AI for Code Productivity
-- Preparing for SDE III Interviews 🚀
-
 ---
