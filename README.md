@@ -12,7 +12,6 @@
 - 🔭 Currently working as an **SDE II at FlytBase**, building real-time drone autonomy platforms.
 - ⚙️ Architected and optimized **low-latency real-time microservices** using Go, Node.js (NestJS), and Python.
 - 🌐 Frontend experience with **Angular**, **React.js**, and real-time interfaces.
-- 🚀 Reduced drone control latency and improved performance by designing **dedicated regional brokers** using **EMQX**.
 - 🧠 Leveraging **AI tools** (ChatGPT, Claude, Lovable) to enhance productivity and problem-solving.
 - 🎯 Competent in building tools, internal platforms, asset managers, and large-scale APIs.
 - 🛠️ Backend, frontend, devops, observability, and everything in between.
