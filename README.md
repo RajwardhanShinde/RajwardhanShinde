@@ -1,48 +1,79 @@
-### Hello, I'm Rajwardhan Shinde 👋
+<h1 align="center">Hi, I'm Rajwardhan Shinde 👋</h1>
 
-- 🔭 I’m currently working on a MERN project [Here it is][project]!
-- 🌱 I’m currently learning Web Development, Competitive Coding.
-- 👯 I’m looking to collaborate on Web Development projects.
-- 💬 Ask me about MERN, Django, Competitive Coding or any tech related stuff.
+<p align="center">
+  <b>Senior Software Engineer | Backend & Full Stack Developer | AI & Systems Enthusiast</b><br>
+  Passionate about building scalable microservices, low-latency systems, and solving complex engineering problems.
+</p>
 
-### Connect with me:
+---
 
-[<img align="left" alt="RajwardhanShinde" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
-[<img align="left" alt="Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
+### 💼 About Me
 
-<br />
-<br />
+- 🔭 Currently working as an **SDE II at FlytBase**, building real-time drone autonomy platforms.
+- ⚙️ Architected and optimized **low-latency real-time microservices** using Go, Node.js (NestJS), and Python.
+- 🌐 Frontend experience with **Angular**, **React.js**, and real-time interfaces.
+- 🚀 Reduced drone control latency and improved performance by designing **dedicated regional brokers** using **EMQX**.
+- 🧠 Leveraging **AI tools** (ChatGPT, Claude, Lovable) to enhance productivity and problem-solving.
+- 🎯 Competent in building tools, internal platforms, asset managers, and large-scale APIs.
+- 🛠️ Backend, frontend, devops, observability, and everything in between.
 
-![Codechef](https://img.shields.io/badge/Codechef-1759-blue)&nbsp;
-![Leetcode](https://img.shields.io/badge/Leetcode-1766-orange)&nbsp;
+---
 
-### Languages and Tools:
+### 🧠 Technical Skills
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Sublime" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
+| Domain | Skills |
+|-------|--------|
+| **Languages** | C++, Python, TypeScript, JavaScript, Go, SQL |
+| **Backend** | Node.js, NestJS, Django, Flask, Go (Gin), Celery |
+| **Frontend** | Angular, React.js, HTML/CSS |
+| **Databases** | MongoDB, PostgreSQL, MySQL |
+| **DevOps & Infra** | Docker, Kubernetes, Nginx, Git, Linux |
+| **Messaging & Streaming** | RabbitMQ, Kafka, MQTT, WebSockets |
+| **Tools & Cloud** | AWS, Swagger, Postman, Figma, Dynatrace |
+| **AI Tools** | ChatGPT, Claude, Lovable, Perplexity, Bolt |
 
-<br />
-<br />
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RajwardhanShinde&show_icons=true)
+### 🚀 Achievements
 
-[website]: https://rajwardhanshinde.github.io
-[project]: http://www.learn-code.tk
-[linkedin]: https://linkedin.com/in/RajwardhanShinde
-[leetcode]: https://leetcode.com/rss07/
-[codechef]: https://www.codechef.com/users/rss07
+- 🥈 **Runner-up** at GitHub Hackathon `2021`
+- 🧠 **2000+ DSA problems** solved across platforms
+- 🇮🇳 **Google HashCode 2021** - India Rank **#485**
+- 👨‍💻 Built `LearnCode Link` – a platform to solve DSA/OOPS challenges: [LearnCode](https://problem-solver.netlify.app)
+
+---
+
+### 📊 Problem Solving Profiles
+
+| Platform | Profile |
+|----------|---------|
+| 💻 **LeetCode** | [leetcode.com/u/rss07](https://leetcode.com/u/rss07/)
+
+---
+
+### 🔗 Let's Connect
+
+- 🌐 [Portfolio Site](https://rajwardhan-gpt.vercel.app/)
+- 💼 [LinkedIn](https://linkedin.com/in/rajwardhanshinde/)
+- 📫 [Email](mailto:rajshinde55553@gmail.com)
+- 🧑‍💻 [GitHub](https://github.com/RajwardhanShinde)
+
+---
+
+### 📌 Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajwardhanShinde&theme=radical" alt="Streak Stats" />
+</p>
+
+---
+
+### 🧠 Current Focus
+
+- System Design & Architecture
+- Distributed Systems
+- Performance Optimization
+- AI for Code Productivity
+- Preparing for SDE III Interviews 🚀
+
+---
